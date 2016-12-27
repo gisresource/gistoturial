@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.144c413b.css",
   "main.css.map": "static/css/main.144c413b.css.map",
-  "main.js": "static/js/main.fad7dc08.js",
-  "main.js.map": "static/js/main.fad7dc08.js.map",
+  "main.js": "static/js/main.ab1aaa84.js",
+  "main.js.map": "static/js/main.ab1aaa84.js.map",
   "static/media/Extract_by_Attribute.png": "static/media/Extract_by_Attribute.bec480dc.png",
   "static/media/L05_2005_raster_calc_ref.png": "static/media/L05_2005_raster_calc_ref.4b198414.png",
   "static/media/L05_raster_calc_rad.png": "static/media/L05_raster_calc_rad.ffdc1e9a.png",
@@ -16,6 +16,7 @@
   "static/media/band432.png": "static/media/band432.647f35a1.png",
   "static/media/band453.png": "static/media/band453.720005af.png",
   "static/media/band742.png": "static/media/band742.8633fd66.png",
+  "static/media/buffers.png": "static/media/buffers.fd3318bb.png",
   "static/media/cloud_mask_IMG.jpg": "static/media/cloud_mask_IMG.f5142a77.jpg",
   "static/media/dataSets.png": "static/media/dataSets.85df74a9.png",
   "static/media/deforestation.jpg": "static/media/deforestation.258909f0.jpg",
